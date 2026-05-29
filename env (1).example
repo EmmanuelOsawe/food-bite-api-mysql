@@ -1,0 +1,13 @@
+PORT=5001
+CLIENT_URL=http://localhost:5173
+
+# MySQL Workbench connection
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=food_bite
+DB_USER=root
+DB_PASS=your_mysql_root_password
+
+# JWT
+JWT_SECRET=your_jwt_secret_key
+JWT_EXPIRES_IN=7d
